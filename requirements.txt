@@ -4,4 +4,4 @@ google.generativeai
 wordcloud
 Pillow
 matplotlib
-dotenv
+python-dotenv
