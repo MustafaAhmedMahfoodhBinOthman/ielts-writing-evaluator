@@ -1,0 +1,7 @@
+﻿streamlit
+anthropic
+google.generativeai
+wordcloud
+Pillow
+matplotlib
+dotenv
